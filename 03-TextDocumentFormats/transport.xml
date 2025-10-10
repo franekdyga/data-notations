@@ -1,0 +1,29 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<transport>
+    <meansOfTransport>
+        <type maxSpeed="20km/h" convenience="Low">Tram</type>
+        <frequencyPerWeek>2</frequencyPerWeek>
+        <lines>
+            <line>14</line>
+            <line>52</line>
+        </lines>
+        <color>blue</color>
+    </meansOfTransport>
+    <meansOfTransport maxSpeed="120km/h" convenience="Medium">
+        <type>Car</type>
+        <frequencyPerWeek>4</frequencyPerWeek>
+        <lines>
+            Nie dotyczy
+        </lines>
+        <color>black</color>
+    </meansOfTransport>
+    
+    <meansOfTransport maxSpeed="90km/h" convenience="Low">
+        <type>Bus</type>
+        <frequencyPerWeek>1</frequencyPerWeek>
+        <lines>
+            <line>125</line>
+        </lines>
+        <color>blue</color>
+    </meansOfTransport>
+</transport>

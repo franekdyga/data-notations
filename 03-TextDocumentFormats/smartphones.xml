@@ -9,4 +9,13 @@
         </specs>
         <price currency="USD">799</price>
     </smartphone>
+    <smartphone>
+        <specs brand="Nokia" model="3310" releaseYear="1992"> 
+            <screenSize unit="inch">1.1</screenSize>
+            <batteryCapacity unit="mAh">100</batteryCapacity>
+            <storage unit="GB">1</storage>
+            <camera unit="MP">2</camera>
+        </specs>
+        <price currency="USD">10</price>
+    </smartphone>
 </smartphones>

@@ -1,0 +1,12 @@
+[
+    {
+        "trainID": 3924,
+        "passengerName": "Joe Brown",
+        "origin": "Paris",
+        "destination": "London",
+        "departureHour": "14:30",
+        "departureDay": "12 May",
+        "arrival": "16:30",
+        "seat": "A18"
+    }
+]

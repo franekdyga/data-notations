@@ -53,5 +53,38 @@
             "Outerwear",
             "Accessories"
         ]
+    },
+    {
+        "name": "Levi Strauss  & Co.",
+        "founded": 1853,
+        "headquarters": "San Francisco, USA",
+        "employees": 18700,
+        "products": [
+            "Jeans",
+            "Acessories",
+            "Fashion Apparel"
+        ]
+    },
+    {
+        "name": "Mavi Jeans",
+        "founded": 1991,
+        "headquarters": "Istanbul, Turkey",
+        "employees": 6201,
+        "products": [
+            "Jeans",
+            "Acessories",
+            "Fashion Apparel"
+        ]
+    },
+    {
+        "name": "Trands",
+        "founded": 1995,
+        "headquarters": "Dalian, China",
+        "employees": 6224,
+        "products": [
+            "Menswear",
+            "Footwear",
+            "Fashion Apparel"
+        ]
     }
 ]

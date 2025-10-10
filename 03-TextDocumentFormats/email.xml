@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<email>
+    <emailData>
+        <sender>Franek Dyga</sender>
+        <recipient>Anna May</recipient>
+        <subject>Birthday party</subject>
+        <messageBody>helol</messageBody>
+    </emailData>
+</email>
